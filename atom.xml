@@ -6,7 +6,7 @@
   <link href="https://1117nathalie.github.io/atom.xml" rel="self"/>
   
   <link href="https://1117nathalie.github.io/"/>
-  <updated>2025-11-07T07:26:28.324Z</updated>
+  <updated>2025-11-07T08:21:52.926Z</updated>
   <id>https://1117nathalie.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://1117nathalie.github.io/2025/11/07/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-Journal-%E4%B8%BB%E9%A2%98/"/>
     <id>https://1117nathalie.github.io/2025/11/07/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-Journal-%E4%B8%BB%E9%A2%98/</id>
     <published>2025-11-07T06:30:00.000Z</published>
-    <updated>2025-11-07T07:26:28.324Z</updated>
+    <updated>2025-11-07T08:21:52.926Z</updated>
     
     <content type="html"><![CDATA[<h2 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h2><p>恭喜！你已经成功配置了 <strong>Journal</strong> 主题。这是一个简洁优雅的 Hexo 主题，专注于阅读和写作体验。</p><h2 id="主题特色"><a href="#主题特色" class="headerlink" title="主题特色"></a>主题特色</h2><ul><li>✨ 简洁美观的设计</li><li>📱 移动端友好</li><li>💻 宽屏适配</li><li>📝 专注阅读体验</li><li>🎨 易于自定义</li></ul><h2 id="开始写作"><a href="#开始写作" class="headerlink" title="开始写作"></a>开始写作</h2><p>你可以使用 Markdown 格式来编写文章。支持：</p><ul><li><strong>粗体文字</strong></li><li><em>斜体文字</em></li><li><a href="https://hexo.io/">链接</a></li><li><code>代码块</code></li><li>列表项</li></ul><h3 id="代码示例"><a href="#代码示例" class="headerlink" title="代码示例"></a>代码示例</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;Hello, Journal!&#x27;</span>);</span><br></pre></td></tr></table></figure><h2 id="下一步"><a href="#下一步" class="headerlink" title="下一步"></a>下一步</h2><ol><li>编辑 <code>_config.yml</code> 自定义博客信息</li><li>编辑 <code>themes/journal/_config.yml</code> 自定义主题</li><li>开始创作你的内容！</li></ol><p>祝你写作愉快！🎉</p>]]></content>
     
@@ -30,7 +30,7 @@
     
     
     
-    <category term="技术" scheme="https://1117nathalie.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="随笔" scheme="https://1117nathalie.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="Hexo" scheme="https://1117nathalie.github.io/tags/Hexo/"/>
